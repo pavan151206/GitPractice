@@ -1,1 +1,3 @@
 hello this is the new hello
+this is to test reset
+hello this is the new hello
