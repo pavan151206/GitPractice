@@ -6,3 +6,7 @@ this is going to be merged to master
  
  ok keep in mind
  
+hello this is the new hello
+
+
+OH i finished this bug
